@@ -1,0 +1,12 @@
+.card {
+    width:250px;
+    height:230px;
+    display:inline-block;
+    margin: 10px;
+    background-color: lightgray;
+}
+
+img {
+    width:200px;
+    height:180px;
+}
